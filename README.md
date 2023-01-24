@@ -11,10 +11,10 @@
 
  ### Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/ishan-chaturvedi-8b4a6b237/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/ishan-chaturvedi-8b4a6b237/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/ishan-0611[removed]" rel="nofollow noreferrer">
+  <a href="https://github.com/ishan-0611" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a> &nbsp;
 </p>
