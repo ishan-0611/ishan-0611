@@ -14,9 +14,9 @@
   <a href="https://www.linkedin.com/in/ishan-chaturvedi-8b4a6b237/[removed]" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/ishan-0611/[removed]" rel="nofollow noreferrer">
+  <a href="https://github.com/ishan-0611[removed]" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
+  </a> &nbsp;
 </p>
 
 ## :hammer_and_wrench: Languages and Tools:
@@ -38,4 +38,3 @@
 ## My Github Stats:
 <img align="left" alt="Ishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ishan-0611&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[linkedin]: https://www.linkedin.com/in/ishan-chaturvedi-8b4a6b237/
