@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Flutter in App Dev and Dart !
 - 👯 I’m looking out for remote SDE internships.
 - 🥅 2023 Goals: Prepare well and contribute to Internships !
-- ⚡ Fun fact: I love to solve coding problems and play cricket: star_struck:!
+- ⚡ Fun fact: I love to solve coding problems and play cricket :star_struck:!
 
  ### Connect with me:
 <p>
@@ -19,7 +19,7 @@
   </a> &nbsp;
 </p>
 
-## :hammer_and_wrench: Languages and Tools:
+##  Languages and Tools:
 <div>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="padding: 10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" style="padding: 10px;"/>
