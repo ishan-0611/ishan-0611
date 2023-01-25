@@ -12,11 +12,14 @@
  ### Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/ishan-chaturvedi-8b4a6b237/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" style="padding: 10px;"/>
   </a> &nbsp; 
   <a href="https://github.com/ishan-0611" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" style="padding: 10px;" />
   </a> &nbsp;
+ <a href="https://codeforces.com/profile/ishan0611" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ishan0611" width="30" style="padding: 10px;" /></a>
+<a href="https://www.codechef.com/users/ishan0611" target="blank"><img align="left" src="https://img.icons8.com/color/144/000000/codechef.png" alt="ishan0611"  width="30" /></a>
+
 </p>
 
 ##  Languages and Tools:
@@ -39,4 +42,6 @@
 
 ## My Github Stats:
 <img align="left" alt="Ishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ishan-0611&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishan-0611&show_icons=true&locale=en&layout=compact&theme=radical" alt="ishan-0611" />
+
 
