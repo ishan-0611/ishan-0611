@@ -4,7 +4,7 @@
 
 ## **About me**
 ### I am a competitive programmer and a full-stack app developer. I am currently a second year IT undergraduate at Manipal Institute of Technology. I am also the Managing Commitee  at IECSE, Manipal for the year 2023-24.
-<img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" height="250" width="400">
+<img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" height="250" width="350">
 
 - 🌱 I’m currently learning Flutter in App Dev and Dart !
 - 👯 I’m looking out for remote SDE internships.
