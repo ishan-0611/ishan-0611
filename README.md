@@ -27,6 +27,7 @@
 </p>
 
 ##  Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=vscode,cpp,flutter,dart,androidstudio,gradle,github,git,java)](https://skillicons.dev)
 <div>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="padding: 10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" style="padding: 10px;"/>
