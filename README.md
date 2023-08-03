@@ -3,7 +3,7 @@
 
 
 ## **About me**
-### I am a competitive programmer and a full-stack app developer. I am currently a second year IT undergraduate at Manipal Institute of Technology. I am also the Managing Commitee Member at IECSE, Manipal for the year 2023-24.
+### I am a competitive programmer and an aspiring developer. I am currently a second year IT undergraduate at Manipal Institute of Technology. I am also the Managing Commitee Member at IECSE, Manipal for the year 2023-24.
 
 - 🌱 I’m currently learning AI , Machine learning and Deep learning !
 - 👯 I’m looking out for remote SDE internships.
