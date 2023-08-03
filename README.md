@@ -39,7 +39,8 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" style="padding: 10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="padding: 10px;" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px" style="padding: 10px;" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40px" style="padding: 10px;"/>    
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40px" style="padding: 10px;"/>
+<img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="40px" style="padding: 10px;"/>
 <div> -->
 
 ## My Github Stats:
