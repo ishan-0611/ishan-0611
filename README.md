@@ -1,9 +1,10 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hello , I'm Ishan Chaturvedi  
+<h1>Hello , I'm Ishan Chaturvedi  
 </h1>
 
 
 ## **About me**
-### I am a competitive programmer and an aspiring developer. I am currently a second year IT undergraduate at Manipal Institute of Technology. I am also the Managing Commitee Member at IECSE, Manipal for the year 2023-24.
+### I am a competitive programmer and an aspiring developer.
+### I am currently a Third year IT undergraduate at Manipal Institute of Technology. 
 
 - 🌱 I’m currently learning AI , Machine learning and Deep learning !
 - 👯 I’m looking out for remote SDE internships.
