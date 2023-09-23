@@ -17,14 +17,12 @@
  ## Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/ishan-chaturvedi-8b4a6b237/" rel="nofollow noreferrer">
-   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" style="padding: 10px;"/>
+   <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="40px" style="padding: 10px;"/>
   </a> &nbsp; 
   <a href="https://github.com/ishan-0611" rel="nofollow noreferrer">
-    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" style="padding: 10px;" />
+    <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40px" style="padding: 10px;" />
   </a> &nbsp;
- <a href="https://codeforces.com/profile/ishan0611" target="blank"><img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ishan0611" width="30" style="padding: 10px;" /></a>
-<a href="https://www.codechef.com/users/ishan0611" target="blank"><img align="left" src="https://img.icons8.com/color/144/000000/codechef.png" alt="ishan0611"  width="30" /></a>
-
+ 
 </p>
 
 ##  Languages and Tools:
