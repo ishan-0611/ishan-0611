@@ -1,5 +1,4 @@
-<h1>Hello , I'm Ishan Chaturvedi  
-</h1>
+<h2>Hello , I'm Ishan Chaturvedi  </h2>
 
 
 ## **About me**
