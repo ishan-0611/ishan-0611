@@ -21,7 +21,7 @@
 </p>
 
 ##  Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,cpp,python,sklearn,tensorflow,github,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,anaconda,cpp,python,sklearn,tensorflow,github,flutter,dart)](https://skillicons.dev)
 <div>
  <!--
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="padding: 10px;" />
