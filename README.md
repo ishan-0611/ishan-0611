@@ -1,7 +1,7 @@
 <h2>Ishan Chaturvedi  </h2>
 
 #### I am a competitive programmer and an aspiring developer.
-#### I am currently a Third year IT undergraduate at Manipal Institute of Technology. 
+#### I am currently a Final year IT undergraduate at Manipal Institute of Technology. 
 
 <!--- 🌱 I’m currently learning AI , Machine learning and Deep learning !
 - 👯 I’m looking out for remote SDE internships.
