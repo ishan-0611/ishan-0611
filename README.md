@@ -44,5 +44,5 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-0611&hide_progress=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-0611&hide=jupyter%20notebook&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-0611&hide_progress=true&hide=jupyter%20notebook&layout=compact&theme=dracula)
 
